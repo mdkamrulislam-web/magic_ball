@@ -48,7 +48,7 @@ class _BallState extends State<Ball> {
             height: 80.0,
             width: 200.0,
             child: Text(
-              'Tap The Ball Get Your Answer',
+              'Tap The Ball to Get Your Answer',
               textAlign: TextAlign.center,
               style: const TextStyle(
                 fontSize: 25.0,
